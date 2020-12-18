@@ -1,0 +1,77 @@
+{
+  "BreakfastMenu": [{
+      "name": "American Express Coffee Cup",
+      "price": 5,
+      "img": "https://icon-icons.com/icons2/158/PNG/128/coffee_22315.png"
+    }, {
+      "name": "Cafe Latte Cup",
+      "price": 7,
+      "img": "https://icon-icons.com/icons2/5/PNG/128/java_coffee_144.png"
+    }, {
+      "name": "Sandwich (Ham and Cheese)",
+      "price": 10,
+      "img": "https://icon-icons.com/icons2/1447/PNG/128/32386sandwich_98891.png"
+    }, {
+      "name": "Natural Juice",
+      "price": 7,
+      "img": "https://icon-icons.com/icons2/219/PNG/128/Mojito_25455.png"
+  }],
+
+  "LunchMenu": [{
+      "name": "Single Cheese Burguer",
+      "price": 10,
+      "img": "https://icon-icons.com/icons2/1447/PNG/128/32382hamburger_98925.png"
+    }, {
+      "name": "Double Cheese Burguer",
+      "price": 15,
+      "img": "https://icon-icons.com/icons2/1447/PNG/128/32382hamburger_98925.png"
+    }, {
+      "name": "Single Chicken Burguer",
+      "price": 10,
+      "img": "https://icon-icons.com/icons2/1286/PNG/128/32_85215.png"
+    }, {
+      "name": "Double Chicken Burguer",
+      "price": 15,
+      "img": "https://icon-icons.com/icons2/1286/PNG/128/32_85215.png"
+    }, {
+      "name": "Single Veggie Burguer",
+      "price": 10,
+      "img": "https://icon-icons.com/icons2/1465/PNG/128/540hamburger2_100266.png"
+    }, {
+      "name": "Double Veggie Burguer",
+      "price": 15,
+      "img": "https://icon-icons.com/icons2/1465/PNG/128/540hamburger2_100266.png"
+    }, {
+      "name": "French Fries",
+      "price": 5,
+      "img": "https://icon-icons.com/icons2/1447/PNG/128/32383frenchfries_98890.png"
+    }, {
+      "name": "Onion Rings",
+      "price": 5,
+      "img": "https://icon-icons.com/icons2/1330/PNG/128/rings_87131.png"
+    }, {
+      "name": "Water Bottle 500ml",
+      "price": 5,
+      "img": "https://icon-icons.com/icons2/881/PNG/128/Bottle_of_Water_icon-icons.com_68778.png"
+    }, {
+      "name": "Water Bottle 750ml",
+      "price": 7,
+      "img": "https://icon-icons.com/icons2/881/PNG/128/Bottle_of_Water_icon-icons.com_68778.png"
+    }, {
+      "name": "Can of Soda 500ml",
+      "price": 7,
+      "img": "https://icon-icons.com/icons2/1529/PNG/128/pixel-pastels-littledr3ams-22_106726.png"
+    }, {
+      "name": "Can of Soda 750ml",
+      "price": 10,
+      "img": "https://icon-icons.com/icons2/1529/PNG/128/pixel-pastels-littledr3ams-22_106726.png"
+    }, {
+      "name": "Extra: Cheese",
+      "price": 1,
+      "img": "https://icon-icons.com/icons2/1447/PNG/128/32377cheesewedge_98913.png"
+    }, {
+      "name": "Extra: Eggs",
+      "price": 1,
+      "img": "https://icon-icons.com/icons2/1954/PNG/128/foodfriedegg_122735.png"
+  }]
+}

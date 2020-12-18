@@ -1,0 +1,210 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: url("https://i.pinimg.com/236x/e5/23/79/e52379253a0b98263f7686a2baf4986b--pantone-color-iphone-wallpaper.jpg");
+  background-size: 100%;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  align-self: auto;
+  font-family: 'Cabin', sans-serif;
+}
+
+h1 {
+  font-size: 25px;
+  color: white;
+  margin: 15px 20px 2px 20px;
+}
+
+p {
+  color: white;
+}
+
+.mainContainer {
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: flex-start;
+  align-items: center;
+  align-content: center;
+}
+
+.lunch, .breakfast {
+  display: flex;
+  justify-content: center;
+  border-radius: 20px;
+  width: 100%;
+}
+
+.menuDiario {
+  display: flex;
+  flex-direction: column;
+}
+
+.leftContainer {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  background: rgb(64, 64, 64);
+  border-radius: 20px;
+  padding: 20px;
+  width: 80%;
+  margin: 20px;
+  margin-right: 0px;
+}
+
+.leftContainer p {
+  color: white;
+  font-size: 14px;
+  margin-top: 12px;
+}
+
+.leftContainer button {
+  font-size: 14px;
+  margin-bottom: 30px;
+}
+
+h3 {
+  color: white;
+}
+
+h5 {
+  color: white;
+}
+
+.rigthContainer {
+  background: rgb(64, 64, 64);
+  border-radius: 20px;
+  margin: 12px;
+  margin-top: 20px;
+  height: auto;
+  width: 50%;
+}
+
+.rigthContainer p {
+  margin-left: 70px;
+  font-size: 20px;
+}
+
+.rigthContainer h6 {
+  margin-left: 77px;
+  font-size: 19px;
+  color:white;
+}
+
+.rigthContainer h3 {
+  color: white;
+  font-size: 30px;
+  text-align: center;
+  margin: 20px;
+}
+
+.btnSubmit {
+  display: flex;
+  justify-content: flex-end;
+  margin: 25px;
+}
+
+.food {
+  text-align: center;
+  margin: 10px;
+}
+
+.contenedorRegistro {
+  text-align: center;
+  margin: 10px;
+}
+
+.row input {
+  border: none;
+}
+
+.contenedorRegistro input {
+  width: 350px;
+}
+
+.order {
+  color: grey;
+  font-style: black;
+  font-size: 18px;
+}
+
+.order li {
+  font-size: 18px;
+  list-style: none;
+  margin-top: -22px;
+  margin-left: 36px;
+}
+
+.btnMenu {
+  display: flex;
+  flex-direction: row;
+  margin: 10px;
+  text-decoration: none;
+}
+
+.col {
+  margin-left: 15px;
+  padding: 0px;
+}
+
+.container.mt-2 {
+  padding-left: 0px;
+}
+
+@media screen and (max-width: 768px) {
+
+  .food {
+    text-align: center;
+    margin: 2px;
+    width: 150px;
+    height: 170px;
+  }
+
+  .food p {
+    font-size: 12px;
+  }
+
+  .leftContainer img {
+    width: 50%;
+    margin: 5px;
+  }
+
+  .leftContainer {
+    width: 82%;
+    margin-top: 20px;
+    margin-right: 0px;
+  }
+
+  .rigthContainer {
+    width: 62%;
+    margin: 20px;
+    height: auto;
+  }
+
+  .rigthContainer h3 {
+    font-size: 22px;
+  }
+
+  .rigthContainer p {
+    margin-left: 20px;
+    font-size: 14px;
+    list-style: none;
+  }
+
+  .rigthContainer h6 {
+    margin-left: 75px;
+    color: white;
+    font-size: 18px;
+  }
+
+  h1 {
+    font-size: 20px;
+    margin: 10px 20px;
+  }
+
+  .order li {
+    margin-left: 36px;
+    font-size: 16px;
+  }
+
+}

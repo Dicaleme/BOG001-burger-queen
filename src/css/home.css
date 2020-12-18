@@ -1,0 +1,12 @@
+.logoPrincipal{
+    width: 100%;
+    
+}
+  .contenedor{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    margin-top:60px;
+}

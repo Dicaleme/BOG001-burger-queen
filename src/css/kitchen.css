@@ -1,0 +1,65 @@
+.orderInfo {
+  width: 280px;
+  padding: 15px;
+  height: auto;
+  background: rgb(64, 64, 64);
+  margin: 10px;
+  margin-left: 0px;
+  border-radius: 10px;
+  list-style: none;
+}
+
+.kitchenBox h3,
+.statusBox h3 {
+  margin-top: 10px;
+  font-size: 22px;
+  font-weight: lighter;
+}
+
+.orderInfo span {
+  margin-top: 10px;
+  color: grey;
+  font-size: 15px;
+}
+
+.orderInfo li {
+  font-size: 18px;
+}
+
+.kitchenBox p,
+.statusBox p {
+  margin-top: 8px;
+  margin-bottom: 5px;
+  font-size: 18px;
+}
+
+.orderInfo .btn.btn-success.btn-sm {
+  margin-left: 80%;
+  background-color: #4D5A06;
+  border-style: none;
+}
+
+.orderInfo .btn.btn-primary.btn-sm {
+  margin-left: 75%;
+  background-color: #063b5a;
+  border-style: none;
+}
+
+.orderInfoDerecho {
+  width: 280px;
+  padding: 15px;
+  height: auto;
+  background: grey;
+  margin: 10px;
+  margin-left: 0px;
+  border-radius: 10px;
+  list-style: none;
+}
+
+button.swal2-styled.swal2-confirm {
+  background-color: #063b5a;
+}
+
+.h2#swal2-title {
+  font-family: 'Cabin', sans-serif;
+}

@@ -1,8 +1,12 @@
+/* This was automatically created by react and edit by me*/
+
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+
+import './firebase'
 
 ReactDOM.render(
   <React.StrictMode>
