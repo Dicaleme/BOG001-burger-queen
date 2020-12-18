@@ -4,7 +4,8 @@ import { Link } from "react-router-dom";
 import '../css/kitchen.css';
 import Swal from 'sweetalert2'
 
-
+//https://es.reactjs.org/docs/hooks-state.html
+//React hooks are a new way to access the core features of react such as state without having to use classes
 const Kitchen = () => {
 
     const [tasks, setTasks] = React.useState([]);
